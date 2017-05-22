@@ -23,5 +23,5 @@ necessary, voice chat rooms.
 
 # PyOpenSource Guides
 
-[Beginning Open Source Guide](./beginning_open_source.md)
-[Common Open Source Tools](./open_source_tools.md)
+- [Beginning Open Source Guide](./beginning_open_source.md)
+- [Common Open Source Tools](./open_source_tools.md)
