@@ -11,6 +11,9 @@ towards open source programming contributions. Below is a series of two videos,
 the first describes how to use git the tool and the second describes how to
 interact with Github the site.
 
+In the videos he mentions the Github desktop client. I would recommend against
+using the and use the command line interface instead.
+
 1. [Github YouTube Tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE)
 1. [Github YouTube Tutorial 2](https://www.youtube.com/watch?v=oFYyTZwMyAg)
 
@@ -29,6 +32,9 @@ has a useful
 [guide](https://help.github.com/articles/connecting-to-github-with-ssh/) for
 setting up ssh keys. Once you have ssh set up make sure you use the ssh link
 for your `git clone` statement.
+
+> _Warning_: When you are generating the ssh keys make sure to use the same
+> email that is associated with your github account
 
 # Find a project to which you'd like to contribute
 
